@@ -1,4 +1,8 @@
-# My Journey into the world of Java usint the book Java How to Program, Early Objects by Paul Harvey Deitel
+# My Journey into the world of Java
+
+## Resources:
+* Course: The Java Master CLass by Tim Buchalka - Udemy
+* Book: Java How to Program, Early Objects by Paul Harvey Deitel
 
 _I have already began studying other materials, so I am switching to this material and will be starting from chapter 3: Introduction to Classes, Objects, Methods and Strings - Pg 120_
 
